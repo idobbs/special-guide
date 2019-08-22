@@ -1,0 +1,4 @@
+name: drupal-8-practice
+recipe: drupal8
+config:
+  webroot: web
