@@ -1,0 +1,22 @@
+uuid: 3d4c284c-342c-48f8-8658-33df0392fd4b
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: chicago_events
+label: 'Chicago Events'
+type: 'canonical_entities:node'
+pattern: 'chicagoEvent/[node:title]'
+selection_criteria:
+  97962332-f92d-4d24-b087-4fe80eed6d50:
+    id: node_type
+    bundles:
+      events: events
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 97962332-f92d-4d24-b087-4fe80eed6d50
+selection_logic: and
+weight: -5
+relationships: {  }

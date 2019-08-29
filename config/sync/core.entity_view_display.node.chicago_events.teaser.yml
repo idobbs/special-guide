@@ -1,0 +1,57 @@
+uuid: cd008e1e-c5f4-41a4-9949-0704fae80361
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.chicago_events.body
+    - field.field.node.chicago_events.field_event_date_1
+    - field.field.node.chicago_events.field_event_topics_1
+    - field.field.node.chicago_events.field_event_website_1
+    - node.type.chicago_events
+  module:
+    - datetime
+    - link
+    - text
+    - user
+id: node.chicago_events.teaser
+targetEntityType: node
+bundle: chicago_events
+mode: teaser
+content:
+  body:
+    label: inline
+    type: text_trimmed
+    weight: 2
+    settings:
+      trim_length: 200
+    third_party_settings: {  }
+    region: content
+  field_event_date_1:
+    type: datetime_default
+    weight: 0
+    region: content
+    label: inline
+    settings:
+      format_type: medium
+      timezone_override: ''
+    third_party_settings: {  }
+  field_event_website_1:
+    type: link
+    weight: 1
+    region: content
+    label: inline
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+  links:
+    weight: 3
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_event_topics_1: true

@@ -1,0 +1,8 @@
+uuid: 47e921e9-5245-438b-b968-db16c22d8019
+langcode: en
+status: true
+dependencies: {  }
+name: 'Event Topics'
+vid: event_topics
+description: 'This is where we track topics for Drupal events'
+weight: 0

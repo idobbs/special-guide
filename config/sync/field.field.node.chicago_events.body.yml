@@ -1,0 +1,22 @@
+uuid: b737b75c-7300-4832-8701-1de8d63bb811
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.chicago_events
+  module:
+    - text
+id: node.chicago_events.body
+field_name: body
+entity_type: node
+bundle: chicago_events
+label: 'Event Descriptions'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary

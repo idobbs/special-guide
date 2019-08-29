@@ -1,0 +1,24 @@
+uuid: dfd1a3aa-39b7-4e4e-8628-471adc6d952f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_event_date_1
+    - node.type.chicago_events
+  module:
+    - datetime
+id: node.chicago_events.field_event_date_1
+field_name: field_event_date_1
+entity_type: node
+bundle: chicago_events
+label: 'Event Date'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    default_date_type: now
+    default_date: now
+default_value_callback: ''
+settings: {  }
+field_type: datetime

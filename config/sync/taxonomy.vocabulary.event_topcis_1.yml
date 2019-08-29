@@ -1,0 +1,8 @@
+uuid: ba03ac0b-e1ed-4b21-8e8c-bda5c6c70fb7
+langcode: en
+status: true
+dependencies: {  }
+name: 'Chicago Event Topcis'
+vid: event_topcis_1
+description: 'This is where we track topics for Chicagoland events'
+weight: 0

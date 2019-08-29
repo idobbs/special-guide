@@ -1,0 +1,24 @@
+uuid: 49a0d36c-d4b4-45f7-84a2-6688f84bed79
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.chicago_september_events
+  module:
+    - views
+  theme:
+    - bartik
+id: views_block__chicago_september_events_block_1
+theme: bartik
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'views_block:chicago_september_events-block_1'
+settings:
+  id: 'views_block:chicago_september_events-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility: {  }

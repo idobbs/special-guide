@@ -1,0 +1,62 @@
+uuid: dcab075b-2932-460d-975d-9bef466920df
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.chicago_events.body
+    - field.field.node.chicago_events.field_event_date_1
+    - field.field.node.chicago_events.field_event_topics_1
+    - field.field.node.chicago_events.field_event_website_1
+    - node.type.chicago_events
+  module:
+    - datetime
+    - link
+    - text
+    - user
+id: node.chicago_events.default
+targetEntityType: node
+bundle: chicago_events
+mode: default
+content:
+  body:
+    label: inline
+    type: text_default
+    weight: 3
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  field_event_date_1:
+    weight: 1
+    label: above
+    settings:
+      timezone_override: ''
+      format_type: long
+    third_party_settings: {  }
+    type: datetime_default
+    region: content
+  field_event_topics_1:
+    weight: 4
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_event_website_1:
+    weight: 2
+    label: inline
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: content
+  links:
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }

@@ -1,0 +1,18 @@
+uuid: 9cec1ae4-6210-475a-871c-13a88920dc44
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.chicago_events
+id: node.chicago_events.title
+field_name: title
+entity_type: node
+bundle: chicago_events
+label: 'Event Name'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
