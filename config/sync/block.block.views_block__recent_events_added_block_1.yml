@@ -1,0 +1,24 @@
+uuid: 292ce81c-b09e-4944-accd-ebc2d648ca0e
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.recent_events_added
+  module:
+    - views
+  theme:
+    - bartik
+id: views_block__recent_events_added_block_1
+theme: bartik
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'views_block:recent_events_added-block_1'
+settings:
+  id: 'views_block:recent_events_added-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: '5'
+visibility: {  }

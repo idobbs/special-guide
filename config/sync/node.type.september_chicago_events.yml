@@ -1,0 +1,18 @@
+uuid: 9548ca5a-8dc8-4092-9d54-98c29dd3eb1d
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: 'September Chicago Events'
+type: september_chicago_events
+description: 'This page is full of different events happening in the Chicagoland area during the month of September.'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

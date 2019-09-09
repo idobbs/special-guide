@@ -1,0 +1,19 @@
+uuid: d3c53ff8-6fe0-4399-a374-73bc6fa68d54
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_group_contact
+    - node.type.user_groups
+id: node.user_groups.field_group_contact
+field_name: field_group_contact
+entity_type: node
+bundle: user_groups
+label: 'Group Contact'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

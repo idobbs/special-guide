@@ -1,0 +1,18 @@
+uuid: 59b9eebb-62d3-416c-ba80-85c94d371829
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.user_groups
+id: node.user_groups.title
+field_name: title
+entity_type: node
+bundle: user_groups
+label: 'User GroupName'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

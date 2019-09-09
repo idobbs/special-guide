@@ -1,0 +1,29 @@
+uuid: 247ade00-ad78-4f54-a12c-1173e88c789f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_event_topics_1
+    - node.type.chicago_events
+    - taxonomy.vocabulary.event_topcis_1
+id: node.chicago_events.field_event_topics_1
+field_name: field_event_topics_1
+entity_type: node
+bundle: chicago_events
+label: 'Event Topics'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      event_topcis_1: event_topcis_1
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: event_topcis_1
+field_type: entity_reference

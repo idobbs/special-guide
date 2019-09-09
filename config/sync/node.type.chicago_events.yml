@@ -1,0 +1,17 @@
+uuid: dd2ce346-b8c3-4111-ae11-fbb65f125f32
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'Chicago Events'
+type: chicago_events
+description: 'This is all about events happening around the Chicagoland area.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

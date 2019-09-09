@@ -1,0 +1,33 @@
+uuid: 4f83d492-5571-4e16-8ef9-6b719306e39a
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_group_experience
+field_name: field_group_experience
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: Beginner
+      label: Beginner
+    -
+      value: Intermediate
+      label: Intermediate
+    -
+      value: Advanced
+      label: Advanced
+    -
+      value: Expert
+      label: Expert
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

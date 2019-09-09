@@ -1,0 +1,30 @@
+uuid: b6d0bb98-f882-4f0f-b33a-cf0cc6e7b0a1
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.september_chicago_events.body
+    - node.type.september_chicago_events
+  module:
+    - text
+    - user
+id: node.september_chicago_events.teaser
+targetEntityType: node
+bundle: september_chicago_events
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden: {  }
