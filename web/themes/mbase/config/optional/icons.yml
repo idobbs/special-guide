@@ -1,0 +1,780 @@
+adjust:
+  glyphicon: 'glyphicon-adjust'
+  fa: 'fa-adjust'
+adn:
+  glyphicon: ''
+  fa: 'fa-adn'  
+align-center:
+  glyphicon: 'glyphicon-align-center'
+  fa: 'fa-align-center'
+align-justify:
+  glyphicon: 'glyphicon-align-justify'
+  fa: 'fa-align-justify'
+align-left:
+  glyphicon: 'glyphicon-align-left'
+  fa: 'fa-align-left'
+align-right:
+  glyphicon: 'glyphicon-align-right'
+  fa: 'fa-align-right'
+arrow-down:
+  glyphicon: 'glyphicon-arrow-down'
+  fa: 'fa-arrow-down'
+arrow-left:
+  glyphicon: 'glyphicon-arrow-left'
+  fa: 'fa-arrow-left'
+arrow-right:
+  glyphicon: 'glyphicon-arrow-right'
+  fa: 'fa-arrow-right'
+arrow-up:
+  glyphicon: 'glyphicon-arrow-up'
+  fa: 'fa-arrow-up'
+asterisk:
+  glyphicon: 'glyphicon-asterisk'
+  fa: 'fa-asterisk'
+backward:
+  glyphicon: 'glyphicon-backward'
+  fa: 'fa-backward'
+ban-circle:
+  glyphicon: 'glyphicon-ban-circle'
+  fa: 'fa-ban'
+barcode:
+  glyphicon: 'glyphicon-barcode'
+  fa: 'fa-barcode'
+bell:
+  glyphicon: 'glyphicon-bell'
+  fa: 'fa-bell'
+bold:
+  glyphicon: 'glyphicon-bold'
+  fa: 'fa-bold'
+book:
+  glyphicon: 'glyphicon-book'
+  fa: 'fa-book'
+bookmark:
+  glyphicon: 'glyphicon-bookmark'
+  fa: 'fa-bookmark'
+briefcase:
+  glyphicon: 'glyphicon-briefcase'
+  fa: 'fa-briefcase'
+bullhorn:
+  glyphicon: 'glyphicon-bullhorn'
+  fa: 'fa-bullhorn'
+calendar:
+  glyphicon: 'glyphicon-calendar'
+  fa: 'fa-calendar'
+camera:
+  glyphicon: 'glyphicon-camera'
+  fa: 'fa-camera'
+certificate:
+  glyphicon: 'glyphicon-certificate'
+  fa: 'fa-certificate'
+check:
+  glyphicon: 'glyphicon-check'
+  fa: 'fa-check'
+chevron-down:
+  glyphicon: 'glyphicon-chevron-down'
+  fa: 'fa-chevron-down'
+chevron-left:
+  glyphicon: 'glyphicon-chevron-left'
+  fa: 'fa-chevron-left'
+chevron-right:
+  glyphicon: 'glyphicon-chevron-right'
+  fa: 'fa-chevron-right'
+chevron-up:
+  glyphicon: 'glyphicon-chevron-up'
+  fa: 'fa-chevron-up'
+circle-arrow-down:
+  glyphicon: 'glyphicon-circle-arrow-down'
+  fa: 'fa-arrow-circle-down'
+circle-arrow-left:
+  glyphicon: 'glyphicon-circle-arrow-left'
+  fa: 'fa-arrow-circle-left'
+circle-arrow-right:
+  glyphicon: 'glyphicon-circle-arrow-right'
+  fa: 'fa-arrow-circle-right'
+circle-arrow-up:
+  glyphicon: 'glyphicon-circle-arrow-up'
+  fa: 'fa-arrow-circle-up'
+cloud:
+  glyphicon: 'glyphicon-cloud'
+  fa: 'fa-cloud'
+cloud-download:
+  glyphicon: 'glyphicon-cloud-download'
+  fa: 'fa-cloud-download'
+cloud-upload:
+  glyphicon: 'glyphicon-cloud-upload'
+  fa: 'fa-cloud-upload'
+cog:
+  glyphicon: 'glyphicon-cog'
+  fa: 'fa-cog'
+collapse-down:
+  glyphicon: 'glyphicon-collapse-down'
+  fa: 'fa-caret-square-o-down'
+collapse-up:
+  glyphicon: 'glyphicon-collapse-up'
+  fa: 'fa-caret-square-o-up'
+comment:
+  glyphicon: 'glyphicon-comment'
+  fa: 'fa-comment'
+compressed:
+  glyphicon: 'glyphicon-compressed'
+  fa: 'fa-file-archive-o'
+copyright-mark:
+  glyphicon: 'glyphicon-copyright-mark'
+  fa: 'fa-copyright'
+credit-card:
+  glyphicon: 'glyphicon-credit-card'
+  fa: 'fa-credit-card'
+cutlery:
+  glyphicon: 'glyphicon-cutlery'
+  fa: 'fa-cutlery'
+dashboard:
+  glyphicon: 'glyphicon-dashboard'
+  fa: 'fa-dashboard'
+download:
+  glyphicon: 'glyphicon-download'
+  fa: 'fa-download'
+download-alt:
+  glyphicon: 'glyphicon-download-alt'
+  fa: 'fa-download'
+earphone:
+  glyphicon: 'glyphicon-earphone'
+  fa: 'fa-phone'
+edit:
+  glyphicon: 'glyphicon-edit'
+  fa: 'fa-edit'
+eject:
+  glyphicon: 'glyphicon-eject'
+  fa: 'fa-eject'
+envelope:
+  glyphicon: 'glyphicon-envelope'
+  fa: 'fa-envelope'
+euro:
+  glyphicon: 'glyphicon-euro'
+  fa: 'fa-euro'
+exclamation-sign:
+  glyphicon: 'glyphicon-exclamation-sign'
+  fa: 'fa-exclamation'
+expand:
+  glyphicon: 'glyphicon-expand'
+  fa: 'fa-expand'
+export:
+  glyphicon: 'glyphicon-export'
+  fa: 'fa-external-link'
+eye-close:
+  glyphicon: 'glyphicon-eye-close'
+  fa: 'fa-eye-slash'
+eye-open:
+  glyphicon: 'glyphicon-eye-open'
+  fa: 'fa-eye'
+facetime-video:
+  glyphicon: 'glyphicon-facetime-video'
+  fa: 'fa-video-camera'
+fast-backward:
+  glyphicon: 'glyphicon-fast-backward'
+  fa: 'fa-fast-backward'
+fast-forward:
+  glyphicon: 'glyphicon-fast-forward'
+  fa: 'fa-fast-forward'
+file:
+  glyphicon: 'glyphicon-file'
+  fa: 'fa-file'
+film:
+  glyphicon: 'glyphicon-film'
+  fa: 'fa-film'
+filter:
+  glyphicon: 'glyphicon-filter'
+  fa: 'fa-filter'
+fire:
+  glyphicon: 'glyphicon-fire'
+  fa: 'fa-fire'
+flag:
+  glyphicon: 'glyphicon-flag'
+  fa: 'fa-flag'
+flash:
+  glyphicon: 'glyphicon-flash'
+  fa: 'fa-flash'
+floppy-disk:
+  glyphicon: 'glyphicon-floppy-disk'
+  fa: 'fa- floppy-o'
+floppy-open:
+  glyphicon: 'glyphicon-floppy-open'
+  fa: 'fa- floppy-o'
+floppy-remove:
+  glyphicon: 'glyphicon-floppy-remove'
+  fa: 'fa- floppy-o'
+floppy-save:
+  glyphicon: 'glyphicon-floppy-save'
+  fa: 'fa- floppy-o'
+floppy-saved:
+  glyphicon: 'glyphicon-floppy-saved'
+  fa: 'fa- floppy-o'
+folder-close:
+  glyphicon: 'glyphicon-folder-close'
+  fa: 'fa-folder'
+folder-open:
+  glyphicon: 'glyphicon-folder-open'
+  fa: 'fa-folder-open'
+font:
+  glyphicon: 'glyphicon-font'
+  fa: 'fa-font'
+forward:
+  glyphicon: 'glyphicon-forward'
+  fa: 'fa-forward'
+fullscreen:
+  glyphicon: 'glyphicon-fullscreen'
+  fa: 'fa-arrows-alt'
+gbp:
+  glyphicon: 'glyphicon-gbp'
+  fa: 'fa-gbp'
+gift:
+  glyphicon: 'glyphicon-gift'
+  fa: 'fa-gift'
+glass:
+  glyphicon: 'glyphicon-glass'
+  fa: 'fa-glass'
+globe:
+  glyphicon: 'glyphicon-globe'
+  fa: 'fa-globe'
+hand-down:
+  glyphicon: 'glyphicon-hand-down'
+  fa: 'fa-hand-o-down'
+hand-left:
+  glyphicon: 'glyphicon-hand-left'
+  fa: 'fa-hand-o-left'
+hand-right:
+  glyphicon: 'glyphicon-hand-right'
+  fa: 'fa-hand-o-right'
+hand-up:
+  glyphicon: 'glyphicon-hand-up'
+  fa: 'fa-hand-o-up'
+hd-video:
+  glyphicon: 'glyphicon-hd-video'
+  fa: 'fa-film'
+hdd:
+  glyphicon: 'glyphicon-hdd'
+  fa: 'fa-hdd-o'
+header:
+  glyphicon: 'glyphicon-header'
+  fa: 'fa-header'
+headphones:
+  glyphicon: 'glyphicon-headphones'
+  fa: 'fa-headphones'
+heart:
+  glyphicon: 'glyphicon-heart'
+  fa: 'fa-heart'
+heart-empty:
+  glyphicon: 'glyphicon-heart-empty'
+  fa: 'fa-heart-o'
+home:
+  glyphicon: 'glyphicon-home'
+  fa: 'fa-home'
+import:
+  glyphicon: 'glyphicon-import'
+  fa: 'fa-upload'
+inbox:
+  glyphicon: 'glyphicon-inbox'
+  fa: 'fa-inbox'
+indent-left:
+  glyphicon: 'glyphicon-indent-left'
+  fa: 'fa-outdent'
+indent-right:
+  glyphicon: 'glyphicon-indent-right'
+  fa: 'fa-indent'
+info-sign:
+  glyphicon: 'glyphicon-info-sign'
+  fa: 'fa-info-circle'
+italic:
+  glyphicon: 'glyphicon-italic'
+  fa: 'fa-italic'
+leaf:
+  glyphicon: 'glyphicon-leaf'
+  fa: 'fa-leaf'
+link:
+  glyphicon: 'glyphicon-link'
+  fa: 'fa-link'
+list:
+  glyphicon: 'glyphicon-list'
+  fa: 'fa-list'
+list-alt:
+  glyphicon: 'glyphicon-list-alt'
+  fa: 'fa-list-alt'
+lock:
+  glyphicon: 'glyphicon-lock'
+  fa: 'fa-lock'
+log-in:
+  glyphicon: 'glyphicon-log-in'
+  fa: 'fa-sign-in'
+log-out:
+  glyphicon: 'glyphicon-log-out'
+  fa: 'fa-sign-out'
+magnet:
+  glyphicon: 'glyphicon-magnet'
+  fa: 'fa-magnet'
+map-marker:
+  glyphicon: 'glyphicon-map-marker'
+  fa: 'fa-map-marker'
+minus:
+  glyphicon: 'glyphicon-minus'
+  fa: 'fa-minus'
+minus-sign:
+  glyphicon: 'glyphicon-minus-sign'
+  fa: 'fa-minus-circle'
+move:
+  glyphicon: 'glyphicon-move'
+  fa: 'fa-arrows'
+music:
+  glyphicon: 'glyphicon-music'
+  fa: 'fa-music'
+new-window:
+  glyphicon: 'glyphicon-new-window'
+  fa: 'fa-external-link'
+off:
+  glyphicon: 'glyphicon-off'
+  fa: 'fa-power-off'
+ok:
+  glyphicon: 'glyphicon-ok'
+  fa: 'fa-check'
+ok-circle:
+  glyphicon: 'glyphicon-ok-circle'
+  fa: 'fa-check-circle-o'
+ok-sign:
+  glyphicon: 'glyphicon-ok-sign'
+  fa: 'fa-check-circle'
+open:
+  glyphicon: 'glyphicon-open'
+  fa: 'fa-upload'
+paperclip:
+  glyphicon: 'glyphicon-paperclip'
+  fa: 'fa-paperclip'
+pause:
+  glyphicon: 'glyphicon-pause'
+  fa: 'fa-pause'
+pencil:
+  glyphicon: 'glyphicon-pencil'
+  fa: 'fa-pencil'
+phone:
+  glyphicon: 'glyphicon-phone'
+  fa: 'fa-mobile'
+phone-alt:
+  glyphicon: 'glyphicon-phone-alt'
+  fa: 'fa-phone'
+picture:
+  glyphicon: 'glyphicon-picture'
+  fa: 'fa-picture-o'
+plane:
+  glyphicon: 'glyphicon-plane'
+  fa: 'fa-plane'
+play:
+  glyphicon: 'glyphicon-play'
+  fa: 'fa-play'
+play-circle:
+  glyphicon: 'glyphicon-play-circle'
+  fa: 'fa-play-circle'
+plus:
+  glyphicon: 'glyphicon-plus'
+  fa: 'fa-plus'
+plus-sign:
+  glyphicon: 'glyphicon-plus-sign'
+  fa: 'fa-plus-circle'
+print:
+  glyphicon: 'glyphicon-print'
+  fa: 'fa-print'
+pushpin:
+  glyphicon: 'glyphicon-pushpin'
+  fa: 'fa-thumb-tack'
+qrcode:
+  glyphicon: 'glyphicon-qrcode'
+  fa: 'fa-qrcode'
+question-sign:
+  glyphicon: 'glyphicon-question-sign'
+  fa: 'fa-question-circle'
+random:
+  glyphicon: 'glyphicon-random'
+  fa: 'fa-random'
+record:
+  glyphicon: 'glyphicon-record'
+  fa: 'fa-microphone'
+refresh:
+  glyphicon: 'glyphicon-refresh'
+  fa: 'fa-refresh'
+registration-mark:
+  glyphicon: 'glyphicon-registration-mark'
+  fa: ''
+remove:
+  glyphicon: 'glyphicon-remove'
+  fa: 'fa-remove'
+remove-circle:
+  glyphicon: 'glyphicon-remove-circle'
+  fa: 'fa-times-circle'
+remove-sign:
+  glyphicon: 'glyphicon-remove-sign'
+  fa: 'fa-times-circle-o'
+repeat:
+  glyphicon: 'glyphicon-repeat'
+  fa: 'fa-repeat'
+resize-full:
+  glyphicon: 'glyphicon-resize-full'
+  fa: 'fa-expand'
+resize-horizontal:
+  glyphicon: 'glyphicon-resize-horizontal'
+  fa: 'fa-arrows-h'
+resize-small:
+  glyphicon: 'glyphicon-resize-small'
+  fa: 'fa-compress'
+resize-vertical:
+  glyphicon: 'glyphicon-resize-vertical'
+  fa: 'fa-arrows-v'
+retweet:
+  glyphicon: 'glyphicon-retweet'
+  fa: 'fa-retweet'
+road:
+  glyphicon: 'glyphicon-road'
+  fa: 'fa-road'
+save:
+  glyphicon: 'glyphicon-save'
+  fa: 'fa-save'
+saved:
+  glyphicon: 'glyphicon-saved'
+  fa: 'fa-check'
+screenshot:
+  glyphicon: 'glyphicon-screenshot'
+  fa: 'fa-picture-o'
+sd-video:
+  glyphicon: 'glyphicon-sd-video'
+  fa: 'fa-film'
+search:
+  glyphicon: 'glyphicon-search'
+  fa: 'fa-search'
+send:
+  glyphicon: 'glyphicon-send'
+  fa: 'fa-send'
+share:
+  glyphicon: 'glyphicon-share'
+  fa: 'fa-share'
+share-alt:
+  glyphicon: 'glyphicon-share-alt'
+  fa: 'fa-share-alt'
+shopping-cart:
+  glyphicon: 'glyphicon-shopping-cart'
+  fa: 'fa-shopping-cart'
+signal:
+  glyphicon: 'glyphicon-signal'
+  fa: 'fa-signal'
+sort:
+  glyphicon: 'glyphicon-sort'
+  fa: 'fa-sort'
+sort-by-alphabet:
+  glyphicon: 'glyphicon-sort-by-alphabet'
+  fa: 'fa-sort-alpha-asc'
+sort-by-alphabet-alt:
+  glyphicon: 'glyphicon-sort-by-alphabet-alt'
+  fa: 'fa-sort-alpha-desc'
+sort-by-attributes:
+  glyphicon: 'glyphicon-sort-by-attributes'
+  fa: 'fa-sort-amount-asc'
+sort-by-attributes-alt:
+  glyphicon: 'glyphicon-sort-by-attributes-alt'
+  fa: 'fa-sort-amount-desc'
+sort-by-order:
+  glyphicon: 'glyphicon-sort-by-order'
+  fa: 'fa-sort-numeric-asc'
+sort-by-order-alt:
+  glyphicon: 'glyphicon-sort-by-order-alt'
+  fa: 'fa-sort-numeric-desc'
+sound-5-1:
+  glyphicon: 'glyphicon-sound-5-1'
+  fa: ''
+sound-6-1:
+  glyphicon: 'glyphicon-sound-6-1'
+  fa: ''
+sound-7-1:
+  glyphicon: 'glyphicon-sound-7-1'
+  fa: ''
+sound-dolby:
+  glyphicon: 'glyphicon-sound-dolby'
+  fa: ''
+sound-stereo:
+  glyphicon: 'glyphicon-sound-stereo'
+  fa: ''
+star:
+  glyphicon: 'glyphicon-star'
+  fa: 'fa-star'
+star-empty:
+  glyphicon: 'glyphicon-star-empty'
+  fa: 'fa-star-o'
+stats:
+  glyphicon: 'glyphicon-stats'
+  fa: 'fa-bar-chart'
+step-backward:
+  glyphicon: 'glyphicon-step-backward'
+  fa: 'fa-step-backward'
+step-forward:
+  glyphicon: 'glyphicon-step-forward'
+  fa: 'fa-step-forward'
+stop:
+  glyphicon: 'glyphicon-stop'
+  fa: 'fa-stop'
+subtitles:
+  glyphicon: 'glyphicon-subtitles'
+  fa: 'fa-cc'
+tag:
+  glyphicon: 'glyphicon-tag'
+  fa: 'fa-tag'
+tags:
+  glyphicon: 'glyphicon-tags'
+  fa: 'fa-tags'
+tasks:
+  glyphicon: 'glyphicon-tasks'
+  fa: 'fa-tasks'
+text-height:
+  glyphicon: 'glyphicon-text-height'
+  fa: 'fa-text-height'
+text-width:
+  glyphicon: 'glyphicon-text-width'
+  fa: 'fa-text-width'
+th:
+  glyphicon: 'glyphicon-th'
+  fa: 'fa-th'
+th-large:
+  glyphicon: 'glyphicon-th-large'
+  fa: 'fa-th-large'
+th-list:
+  glyphicon: 'glyphicon-th-list'
+  fa: 'fa-th-list'
+thumbs-down:
+  glyphicon: 'glyphicon-thumbs-down'
+  fa: 'fa-thumbs-down'
+thumbs-up:
+  glyphicon: 'glyphicon-thumbs-up'
+  fa: 'fa-thumbs-up'
+time:
+  glyphicon: 'glyphicon-time'
+  fa: 'fa-clock-o'
+tint:
+  glyphicon: 'glyphicon-tint'
+  fa: 'fa-tint'
+tower:
+  glyphicon: 'glyphicon-tower'
+  fa: ''
+transfer:
+  glyphicon: 'glyphicon-transfer'
+  fa: 'fa-exchange'
+trash:
+  glyphicon: 'glyphicon-trash'
+  fa: 'fa-trash'
+tree-conifer:
+  glyphicon: 'glyphicon-tree-conifer'
+  fa: 'fa-tree'
+tree-deciduous:
+  glyphicon: 'glyphicon-tree-deciduous'
+  fa: 'fa-tree'
+unchecked:
+  glyphicon: 'glyphicon-unchecked'
+  fa: 'fa-square-o'
+upload:
+  glyphicon: 'glyphicon-upload'
+  fa: 'fa-upload'
+usd:
+  glyphicon: 'glyphicon-usd'
+  fa: 'fa-usd'
+user:
+  glyphicon: 'glyphicon-user'
+  fa: 'fa-user'
+volume-down:
+  glyphicon: 'glyphicon-volume-down'
+  fa: 'fa-volume-down'
+volume-off:
+  glyphicon: 'glyphicon-volume-off'
+  fa: 'fa-volume-off'
+volume-up:
+  glyphicon: 'glyphicon-volume-up'
+  fa: 'fa-volume-up'
+warning-sign:
+  glyphicon: 'glyphicon-warning-sign'
+  fa: 'fa-exclamation-triangle'
+wrench:
+  glyphicon: 'glyphicon-wrench'
+  fa: 'fa-wrench'
+zoom-in:
+  glyphicon: 'glyphicon-zoom-in'
+  fa: 'fa-search-plus'
+zoom-out:
+  glyphicon: 'glyphicon-zoom-out'
+  fa: 'fa-search-minus'
+eur:
+  glyphicon: 'glyphicon-eur'
+  fa: 'fa-eur'
+alert:
+  glyphicon: 'glyphicon-alert'
+  fa: 'fa-exclamation-triangle'
+apple:
+  glyphicon: 'glyphicon-apple'
+  fa: 'fa-apple'
+baby-formula:
+  glyphicon: 'glyphicon-baby-formula'
+  fa: ''
+bed:
+  glyphicon: 'glyphicon-bed'
+  fa: 'fa-bed'
+bishop:
+  glyphicon: 'glyphicon-bishop'
+  fa: ''
+bitcoin:
+  glyphicon: 'glyphicon-bitcoin'
+  fa: 'fa-bitcoin'
+blackboard:
+  glyphicon: 'glyphicon-blackboard'
+  fa: ''
+cd:
+  glyphicon: 'glyphicon-cd'
+  fa: 'fa-hdd-o'
+console:
+  glyphicon: 'glyphicon-console'
+  fa: 'fa-terminal'
+copy:
+  glyphicon: 'glyphicon-copy'
+  fa: 'fa-copy'
+duplicate:
+  glyphicon: 'glyphicon-duplicate'
+  fa: 'fa-files-o'
+education:
+  glyphicon: 'glyphicon-education'
+  fa: 'fa-university'
+equalizer:
+  glyphicon: 'glyphicon-equalizer'
+  fa: 'fa-keyboard-o'
+erase:
+  glyphicon: 'glyphicon-erase'
+  fa: 'fa-eraser'
+grain:
+  glyphicon: 'glyphicon-grain'
+  fa: 'fa-pagelines'
+hourglass:
+  glyphicon: 'glyphicon-hourglass'
+  fa: 'fa-clock-o'
+ice-lolly:
+  glyphicon: 'glyphicon-ice-lolly'
+  fa: ''
+ice-lolly-tasted:
+  glyphicon: 'glyphicon-ice-lolly-tasted'
+  fa: ''
+king:
+  glyphicon: 'glyphicon-king'
+  fa: ''
+knight:
+  glyphicon: 'glyphicon-knight'
+  fa: ''
+lamp:
+  glyphicon: 'glyphicon-lamp'
+  fa: ''
+level-up:
+  glyphicon: 'glyphicon-level-up'
+  fa: 'fa-level-up'
+menu-down:
+  glyphicon: 'glyphicon-menu-down'
+  fa: 'fa-angle-down'
+menu-hamburger:
+  glyphicon: 'glyphicon-menu-hamburger'
+  fa: 'fa-bars'
+menu-left:
+  glyphicon: 'glyphicon-menu-left'
+  fa: 'fa-angle-left'
+menu-right:
+  glyphicon: 'glyphicon-menu-right'
+  fa: 'fa-angle-right'
+menu-up:
+  glyphicon: 'glyphicon-menu-up'
+  fa: 'fa-angle-up'
+modal-window:
+  glyphicon: 'glyphicon-modal-window'
+  fa: ''
+object-align-bottom:
+  glyphicon: 'glyphicon-object-align-bottom'
+  fa: ''
+object-align-horizontal:
+  glyphicon: 'glyphicon-object-align-horizontal'
+  fa: ''
+object-align-left:
+  glyphicon: 'glyphicon-object-align-left'
+  fa: ''
+object-align-right:
+  glyphicon: 'glyphicon-object-align-right'
+  fa: ''
+object-align-top:
+  glyphicon: 'glyphicon-object-align-top'
+  fa: ''
+object-align-vertical:
+  glyphicon: 'glyphicon-object-align-vertical'
+  fa: ''
+oil:
+  glyphicon: 'glyphicon-oil'
+  fa: ''
+open-file:
+  glyphicon: 'glyphicon-open-file'
+  fa: ''
+option-horizontal:
+  glyphicon: 'glyphicon-option-horizontal'
+  fa: 'fa-ellipsis-h'
+option-vertical:
+  glyphicon: 'glyphicon-option-vertical'
+  fa: 'fa-ellipsis-v'
+paste:
+  glyphicon: 'glyphicon-paste'
+  fa: 'fa-paste'
+pawn:
+  glyphicon: 'glyphicon-pawn'
+  fa: ''
+piggy-bank:
+  glyphicon: 'glyphicon-piggy-bank'
+  fa: ''
+queen:
+  glyphicon: 'glyphicon-queen'
+  fa: ''
+ruble:
+  glyphicon: 'glyphicon-ruble'
+  fa: 'fa-ruble'
+save-file:
+  glyphicon: 'glyphicon-save-file'
+  fa: 'fa-bookmark'
+scale:
+  glyphicon: 'glyphicon-scale'
+  fa: ''
+scissors:
+  glyphicon: 'glyphicon-scissors'
+  fa: 'fa-scissors'
+subscript:
+  glyphicon: 'glyphicon-subscript'
+  fa: 'fa-subscript'
+sunglasses:
+  glyphicon: 'glyphicon-sunglasses'
+  fa: ''
+superscript:
+  glyphicon: 'glyphicon-superscript'
+  fa: 'fa-superscript'
+tent:
+  glyphicon: 'glyphicon-tent'
+  fa: ''
+text-background:
+  glyphicon: 'glyphicon-text-background'
+  fa: 'fa-font'
+text-color:
+  glyphicon: 'glyphicon-text-color'
+  fa: 'fa-font'
+text-size:
+  glyphicon: 'glyphicon-text-size'
+  fa: 'fa-text-width'
+triangle-bottom:
+  glyphicon: 'glyphicon-triangle-bottom'
+  fa: 'fa-caret-down'
+triangle-left:
+  glyphicon: 'glyphicon-triangle-left'
+  fa: 'fa-caret-left'
+triangle-right:
+  glyphicon: 'glyphicon-triangle-right'
+  fa: 'fa-caret-right'
+triangle-top:
+  glyphicon: 'glyphicon-triangle-top'
+  fa: 'fa-caret-up'
+yen:
+  glyphicon: 'glyphicon-yen'
+  fa: 'fa-yen'

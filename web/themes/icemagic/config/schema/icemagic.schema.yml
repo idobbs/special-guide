@@ -1,0 +1,6 @@
+# Schema for the configuration files of the IceMagic theme.
+
+icemagic.settings:
+  type: theme_settings
+  label: IceMagic settings
+

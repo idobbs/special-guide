@@ -1,0 +1,23 @@
+uuid: a301cfdf-e5be-43d4-9599-4e1ef2c38241
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_event_website
+    - node.type.chicago_events
+  module:
+    - link
+id: node.chicago_events.field_event_website
+field_name: field_event_website
+entity_type: node
+bundle: chicago_events
+label: 'Event Website'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 16
+  title: 1
+field_type: link
