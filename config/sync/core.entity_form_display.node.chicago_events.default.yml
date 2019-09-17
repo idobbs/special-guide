@@ -4,9 +4,9 @@ status: true
 dependencies:
   config:
     - field.field.node.chicago_events.body
-    - field.field.node.chicago_events.field_event_date_1
-    - field.field.node.chicago_events.field_event_topics_1
-    - field.field.node.chicago_events.field_event_website_1
+    - field.field.node.chicago_events.field_event_date
+    - field.field.node.chicago_events.field_event_topics
+    - field.field.node.chicago_events.field_event_website
     - node.type.chicago_events
   module:
     - datetime
@@ -33,14 +33,14 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-  field_event_date_1:
-    weight: 123
+  field_event_date:
+    weight: 125
     settings: {  }
     third_party_settings: {  }
     type: datetime_default
     region: content
-  field_event_topics_1:
-    weight: 124
+  field_event_topics:
+    weight: 126
     settings:
       match_operator: CONTAINS
       size: 60
@@ -48,8 +48,8 @@ content:
     third_party_settings: {  }
     type: entity_reference_autocomplete
     region: content
-  field_event_website_1:
-    weight: 122
+  field_event_website:
+    weight: 127
     settings:
       placeholder_url: ''
       placeholder_title: ''
