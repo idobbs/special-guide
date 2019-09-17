@@ -1,0 +1,16 @@
+name: My Theme
+type: theme
+description: This is my first custom theme project
+core: 8.x
+screenshot: mytheme.png
+
+regions:
+  header: header
+  content: content
+  sidebar_first: Sidebar first
+  footer: Footer
+  page_top: Page top
+  page_bottom: Page bottom
+
+libraries:
+  - mytheme/global-css
